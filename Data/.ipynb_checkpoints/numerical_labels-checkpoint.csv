@@ -1,0 +1,11 @@
+,col_name,values
+0,PARENT1,"['No', 'Yes']"
+1,MSTATUS,"['z_No', 'Yes']"
+2,SEX,"['M', 'z_F']"
+3,EDUCATION,"['PhD', 'z_High School', '<High School', 'Bachelors', 'Masters']"
+4,JOB,"['Professional', 'z_Blue Collar', 'Clerical', 'Doctor', 'Lawyer', 'Manager', nan, 'Home Maker', 'Student']"
+5,CAR_USE,"['Private', 'Commercial']"
+6,CAR_TYPE,"['Minivan', 'z_SUV', 'Sports Car', 'Van', 'Panel Truck', 'Pickup']"
+7,RED_CAR,"['yes', 'no']"
+8,REVOKED,"['No', 'Yes']"
+9,URBANICITY,"['Highly Urban/ Urban', 'z_Highly Rural/ Rural']"
