@@ -1,10 +1,11 @@
 # descartes_tech_interview
 For the tech interview project for Descartes Underwriting.
+Goal: Predict TARGET_FLAG on the Auto Insurance dataset.
 
 ## Data 
 Used data:
-1. train_auto.csv (8161 * 25)
-2. test_auto.csv (2141 * 25)
+1. train_auto.csv (8161 rows * 25 columns)
+2. test_auto.csv (2141 rows * 25 columns)
 
 # Install packages
 Install required python packages by executing
